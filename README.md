@@ -28,5 +28,5 @@ function mint(address _address, uint _value) public
 ## Burning
 function burn(address _address, uint _value) public
 
-## Burning Token
+## Mapping Token
 mapping(address => uint) public balances;
