@@ -31,6 +31,6 @@ function burn(address _address, uint _value) public
 ## Mapping Token
 mapping(address => uint) public balances;
 
-## Owner
+# Owner
 Sourav Rana
 
